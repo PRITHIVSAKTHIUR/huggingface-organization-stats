@@ -6,7 +6,7 @@ A single-page web application for viewing detailed statistics of any HuggingFace
 
 - [Overview](#overview)
 - [Features](#features)
-- [Demo](#demo)
+- [Demo](https://huggingface.co/spaces/strangertoolshf/huggingface-user-stats)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Token Configuration](#token-configuration)

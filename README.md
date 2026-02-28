@@ -200,6 +200,8 @@ apple, strangervisionhf, bigscience, EleutherAI, strangerguardhf,
 huggingface, facebook, tiiuae, databricks, hugging-science
 ```
 
+& more !!
+
 ## Technical Details
 
 ### Architecture

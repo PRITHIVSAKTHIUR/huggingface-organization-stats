@@ -1,4 +1,4 @@
-# **HuggingFace Organization Stats**
+# **[HuggingFace Organization Stats](https://huggingface.co/spaces/strangertoolshf/huggingface-organization-stats)**
 
 A single-page web application for viewing detailed statistics of any HuggingFace organization. Displays models, datasets, spaces, lifetime downloads, monthly downloads, and likes in a clean, tree-structured interface.
 
